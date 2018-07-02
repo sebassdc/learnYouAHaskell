@@ -1,0 +1,1 @@
+data List a = Empty | Cons a
